@@ -1,0 +1,13 @@
+openai
+pyttsx3
+pyaudio
+SpeechRecognition
+requests
+python-dotenv
+pandas
+fuzzywuzzy 
+python-Levenshtein
+transformers
+torch
+moviepy  # For video processing
+pytesseract  # For basic OCR (optional)
